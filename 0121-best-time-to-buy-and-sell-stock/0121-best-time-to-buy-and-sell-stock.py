@@ -8,7 +8,7 @@ class Solution(object):
             profit = prices [right]- prices[left]
             max_profit= max(max_profit,profit)
         else:
-            left = right
+            left=right
         right +=1
       return max_profit
         
