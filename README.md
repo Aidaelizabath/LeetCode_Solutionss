@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aidaelizabath/LeetCode_Solutionss/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Aidaelizabath/LeetCode_Solutionss/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aidaelizabath/LeetCode_Solutionss/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/Aidaelizabath/LeetCode_Solutionss/tree/master/0274-h-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aidaelizabath/LeetCode_Solutionss/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Aidaelizabath/LeetCode_Solutionss/tree/master/0274-h-index) |
 ## Counting
 |  |
 | ------- |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aidaelizabath/LeetCode_Solutionss/tree/master/0013-roman-to-integer) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Aidaelizabath/LeetCode_Solutionss/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
