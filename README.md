@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aidaelizabath/LeetCode_Solutionss/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aidaelizabath/LeetCode_Solutionss/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aidaelizabath/LeetCode_Solutionss/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Aidaelizabath/LeetCode_Solutionss/tree/master/0169-majority-element) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aidaelizabath/LeetCode_Solutionss/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aidaelizabath/LeetCode_Solutionss/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aidaelizabath/LeetCode_Solutionss/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Aidaelizabath/LeetCode_Solutionss/tree/master/0189-rotate-array) |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Aidaelizabath/LeetCode_Solutionss/tree/master/0274-h-index) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Aidaelizabath/LeetCode_Solutionss/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
